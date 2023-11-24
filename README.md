@@ -1,2 +1,2 @@
 # smort-geo
-Geoguessr clone made in Python.
+Geoguessr clone made in Python. (WIP)
